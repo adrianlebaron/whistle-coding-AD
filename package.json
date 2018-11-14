@@ -1,0 +1,25 @@
+{
+  "name": "whistle-coding-ad",
+  "version": "0.1.0",
+  "description": "This mosule allows for a dynamic footer to be generated for js applications with an updated year and name.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/adrianlebaron/whistle-coding-AD.git"
+  },
+  "keywords": [
+    "footer"
+  ],
+  "author": "Adrian Lebaron <adrianlebaron@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/adrianlebaron/whistle-coding-AD/issues"
+  },
+  "homepage": "https://github.com/adrianlebaron/whistle-coding-AD#readme",
+  "dependencies": {
+    "moment": "^2.22.2"
+  }
+}
